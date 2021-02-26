@@ -1,0 +1,17 @@
+print(2)
+print(2.223)
+print(-55.2)
+print(5.6 + 1.2)
+print(96 - 58)
+print(66 / 8)
+print(64 * 3)
+print(6 * 7 + 3)
+print(6 * (7 + 3))
+print(45 % 7)
+Chosen_Number = -66
+print(Chosen_Number)
+print(str(Chosen_Number) + " is evil")
+print(abs(Chosen_Number))
+print(pow(abs(Chosen_Number), 2))
+from math import *
+print(sqrt(36))
